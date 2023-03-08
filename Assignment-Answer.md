@@ -18,5 +18,5 @@ Answer:- The development build is used - as the name suggests - for development 
 The production build, on the other hand, runs in production mode which means this is the code running on your client's machine. 
 
 #What is async and defer?
-
+Answer:- Async allows your script to run as soon as it's loaded, without blocking other elements on the page. Defer means your script will only execute after the page has finished loading.
 
