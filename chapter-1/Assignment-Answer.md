@@ -7,7 +7,7 @@ Answer:-A framework is a set of pre-written code that provides a structure for d
 #What is CDN? Why do we use it?
 Answer:- A framework is a set of pre-written code that provides a structure for developing software applications. A library, on the other hand, is a collection of pre-written code that can be used to perform specific tasks.
 
-# Why is React known as React?
+#Why is React known as React?
 Answer:- React is a JavaScript library created by Facebook for building user interfaces. It is called React because it was designed to respond quickly to user interactions. It is used for creating interactive UIs, and for managing data and state in applications. React is designed to be fast, scalable, and simple.
 
 #What is crossorigin in script tag?
